@@ -1,0 +1,15 @@
+C:\Users\Alunos\Documents\Sandyla\ProjetoEmEquipe2\DecisaoDeAlmoco\bin\Debug\net8.0\DecisaoDeAlmoco.exe
+C:\Users\Alunos\Documents\Sandyla\ProjetoEmEquipe2\DecisaoDeAlmoco\bin\Debug\net8.0\DecisaoDeAlmoco.deps.json
+C:\Users\Alunos\Documents\Sandyla\ProjetoEmEquipe2\DecisaoDeAlmoco\bin\Debug\net8.0\DecisaoDeAlmoco.runtimeconfig.json
+C:\Users\Alunos\Documents\Sandyla\ProjetoEmEquipe2\DecisaoDeAlmoco\bin\Debug\net8.0\DecisaoDeAlmoco.dll
+C:\Users\Alunos\Documents\Sandyla\ProjetoEmEquipe2\DecisaoDeAlmoco\bin\Debug\net8.0\DecisaoDeAlmoco.pdb
+C:\Users\Alunos\Documents\Sandyla\ProjetoEmEquipe2\DecisaoDeAlmoco\obj\Debug\net8.0\DecisaoDeAlmoco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\Sandyla\ProjetoEmEquipe2\DecisaoDeAlmoco\obj\Debug\net8.0\DecisaoDeAlmoco.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\Sandyla\ProjetoEmEquipe2\DecisaoDeAlmoco\obj\Debug\net8.0\DecisaoDeAlmoco.AssemblyInfo.cs
+C:\Users\Alunos\Documents\Sandyla\ProjetoEmEquipe2\DecisaoDeAlmoco\obj\Debug\net8.0\DecisaoDeAlmoco.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\Sandyla\ProjetoEmEquipe2\DecisaoDeAlmoco\obj\Debug\net8.0\DecisaoDeAlmoco.sourcelink.json
+C:\Users\Alunos\Documents\Sandyla\ProjetoEmEquipe2\DecisaoDeAlmoco\obj\Debug\net8.0\DecisaoDeAlmoco.dll
+C:\Users\Alunos\Documents\Sandyla\ProjetoEmEquipe2\DecisaoDeAlmoco\obj\Debug\net8.0\refint\DecisaoDeAlmoco.dll
+C:\Users\Alunos\Documents\Sandyla\ProjetoEmEquipe2\DecisaoDeAlmoco\obj\Debug\net8.0\DecisaoDeAlmoco.pdb
+C:\Users\Alunos\Documents\Sandyla\ProjetoEmEquipe2\DecisaoDeAlmoco\obj\Debug\net8.0\DecisaoDeAlmoco.genruntimeconfig.cache
+C:\Users\Alunos\Documents\Sandyla\ProjetoEmEquipe2\DecisaoDeAlmoco\obj\Debug\net8.0\ref\DecisaoDeAlmoco.dll
